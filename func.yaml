@@ -1,5 +1,5 @@
 schema_version: 20180708
-name: OCI-FN_TagCompute_DT
+name: oci-fn_tagcompute_dt
 version: 0.0.0
 runtime: python
 build_image: fnproject/python:3.9-dev
